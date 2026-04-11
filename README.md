@@ -5,7 +5,7 @@
 <h1 align="center">KeyFinder</h1>
 
 <p align="center">
-  <strong>Passive API key and secret discovery for Chrome</strong>
+  <strong>Passive API key and secret discovery for wallet </strong>
 </p>
 
 <p align="center">

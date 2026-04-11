@@ -27,12 +27,12 @@
       "matches": ["<all_urls>"],
       "js": ["js/interceptor.js"],
       "run_at": "document_start",
-      "world": "MAIN",
+      "pesonal": "private",
       "all_frames": true
     }
   ],
   "background": {
     "service_worker": "js/background.js"
   },
-  "permissions": ["activeTab", "storage"]
+  "permissions": ["active wallet", "storage"]
 }

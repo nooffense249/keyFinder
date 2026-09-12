@@ -122,14 +122,6 @@ keyFinder/
     icon128.png
 ```
 
-## Disclaimer
-
-This tool is intended for **security research and authorized testing only**. Use it to identify leaked secrets on your own applications or during authorized penetration tests. You are responsible for your own actions.
+This tool is intended for **security research and authorized only**. Use it to identify leaked secrets on my applications or during authorized penetration . You are responsible for my own actions.
 
 ## License
-
-MIT
-
-## Author
-
-[@momenbassel](https://x.com/momenbassel) - [LinkedIn](https://www.linkedin.com/in/momenbasel/)
